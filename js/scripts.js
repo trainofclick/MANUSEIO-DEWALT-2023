@@ -1,0 +1,1 @@
+MANUSEIO - DEWALT/js/scripts.js
